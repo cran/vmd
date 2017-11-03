@@ -1,0 +1,9 @@
+2415dec0a527cfbcce34336059006c9b *DESCRIPTION
+85cd917e3b8920574db11d09b06a2c25 *NAMESPACE
+e0dbcbbdfd5c9449a7a367d32350027a *R/R6Checker.R
+e79594f8975a6ded91d695229f64aa45 *R/R6Vmd.R
+418ec4d6d484da93049e86abf4c6083d *R/package.R
+3c7bbd707a13b5c6cd4561bf375772b5 *R/zzz.R
+eabdfeabb43fc72530294a77d0135b1a *man/checker.Rd
+d40a8df646012f7d855f2f9a196a1b0f *man/vmd-package.Rd
+08fad974010c6c3c06a5bb01300c88e6 *man/vmd.Rd

@@ -1,0 +1,21 @@
+Package: vmd
+Type: Package
+Title: Variational Mode Decomposition
+Version: 0.1.0
+Date: 2017-10-26
+Authors@R: 
+  c(person("Nicholas","Hamilton", ,"n.hamilton@unsw.edu.au", role = c("aut", "cre")),
+    person("Michael","Ferry",,"m.ferry@unsw.edu.au",role = "aut"))
+Author: Nicholas Hamilton [aut, cre], Michael Ferry [aut]
+Maintainer: Nicholas Hamilton <n.hamilton@unsw.edu.au>
+Description: A port and extension to the original 'Matlab' code made public by Dragomiretskiy and Zosso, for conducting Variational Mode Decomposition (VMD) as described  within their 2013 publication (publication: <doi:10.1109/TSP.2013.2288675>, source: <https://goo.gl/fJH1d5>).
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 0.12.12), ggplot2 (>= 2.1), magrittr, reshape2,
+        scales, R6
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2017-11-03 07:18:24 UTC; nick
+Repository: CRAN
+Date/Publication: 2017-11-03 11:47:14 UTC
